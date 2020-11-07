@@ -7,8 +7,14 @@ We are going to attempt problem statement 6, where we have planned to develop a 
 
 #TECHNOLOGIES
 
-1. Python (Django)
-2. Front-End (HTML, CSS , JS etc)
+1. Python (Data analysis tools)
+2. Django-Framework
+3. Front-End (HTML, CSS , JS etc)
+
+1. Python is a dynamically typed programming language. we will use this language for processing and analyisis of data recieved from server.
+2. Django is web-based framework. we will use this technology to fetch and show data on website, which was recieved from the server.
+3. A Front-End is really important for creating an interface for client/users (parents) , which helps them to use any software easily. We will use Languages HTML, CSS, Java Script and jQuery to perform this task as these are one of the efficent languages when it comes to website developement
+
 
 
 #STRUCTURE
